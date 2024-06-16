@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Galih Rasyid Maulana
 - 👀 I’m interested in Cybersecurity and Software engineering
-- 🌱 I’m currently undergraduate informatics at university pembangunan negeri veteran yogyakarta
+- 🌱 I’m currently pursuing my Bachelor's degree in Informatics at UPN "Veteran" Yogyakarta University
   
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Contact ✉️
 
 <!---
 Hyzas466/Hyzas466 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
