@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Galih Rasyid Maulana
-- 👀 I’m interested in ...
+- 👀 I’m interested in Cybersecurity and Software engineering
 - 🌱 I’m currently undergraduate informatics at university pembangunan negeri veteran yogyakarta
   
 - 💞️ I’m looking to collaborate on ...
