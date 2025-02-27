@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Galih Rasyid Maulana
-- 👀 I’m interested in Cybersecurity and Software engineering
-- 🌱 I’m currently pursuing my Bachelor's degree in Informatics at UPN "Veteran" Yogyakarta University
+
   
 # 💫 About Me:
 - 👋 Hi, I’m Galih Rasyid Maulana<br>- 👀 I’m interested in Cybersecurity and Software engineering<br>- 🌱 I’m currently pursuing my Bachelor's degree in Informatics at UPN "Veteran" Yogyakarta University
