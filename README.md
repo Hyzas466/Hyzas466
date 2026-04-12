@@ -16,7 +16,7 @@
 - 🎓 Currently pursuing my Bachelor's degree in **Informatics** at **UPN "Veteran" Yogyakarta University**.
 - 🔭 Actively exploring topics in **Cybersecurity**, **Machine Learning**, and **Software Engineering**.
 - 🌱 Always eager to learn new technologies and taking on challenging projects.
-- 📫 How to reach me: *(Tambahkan link LinkedIn/Email Anda di sini)*
+- 📫 How to reach me: *https://www.linkedin.com/in/galih-rasyid/*
 
 ---
 
